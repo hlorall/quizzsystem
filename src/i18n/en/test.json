@@ -1,0 +1,9 @@
+{
+   
+      "EXPIRED_TOKEN": "Expired token",
+      "NO_TOKEN_FOUND": "No token found",
+      "USER_NOT_AUTHENTICATED": "User not authenticated",
+      "UNEXPECTED_ERROR": "Unexpected error"
+    
+  }
+  

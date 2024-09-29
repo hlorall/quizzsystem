@@ -1,0 +1,9 @@
+{
+  
+      "EXPIRED_TOKEN": "الرمز المميز منتهي الصلاحية",
+      "NO_TOKEN_FOUND": "لم يتم العثور على الرمز المميز",
+      "USER_NOT_AUTHENTICATED": "المستخدم غير مصادق عليه",
+      "UNEXPECTED_ERROR": "خطأ غير متوقع"
+    
+  }
+  
